@@ -12,4 +12,4 @@ Os textos não são gerados por IA, são meus resumos pessoais do que estudei a 
 - [Dia 2](Day-2/what-is-js.md)
 - [Dia 3](Day-3/data-types.md)
 - [Dia 3](Day-3/var-types.md)
-- [Dia 4](Day-4/equality-and-coertion.md)
+- [Dia 3](Day-3/equality-and-coertion.md)
